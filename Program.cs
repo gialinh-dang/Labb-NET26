@@ -2,6 +2,8 @@
 Console.Write("Skriv in en sträng: ");
 string text = Console.ReadLine();
 
+// t.e.x: 29535123p48723487597645723645
+
 Console.WriteLine();
 
 long total = 0;
