@@ -38,6 +38,6 @@ for(int x = 0; x < text.Length; x++)
 Console.WriteLine();
 
     Console.ForegroundColor = ConsoleColor.White;
-    Console.Write($"Total:  {total}");
+    Console.Write($"Total: {total}");
 
 Console.WriteLine();
